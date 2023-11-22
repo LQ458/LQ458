@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LQ458
 - 👀 I’m interested in Calisthenics and Coding
-- 🌱 I’m currently learning html, js, python, c++, css, centos 8.4
-- 💞️ I’m looking to collaborate on nodejs-based programs
+- 🌱 I’m currently learning html, js, python, c++, css, centos 8.4, Java...
+- 💞️ I’m looking to collaborate on nodejs-based programs(vue/ejs/react) and Spring_boot-based programs
 - 📫 How to reach me email: lqn458@gmail.com
 
 <!---
