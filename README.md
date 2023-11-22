@@ -2,7 +2,7 @@
 - 👀 I’m interested in Calisthenics and Coding
 - 🌱 I’m currently learning html, js, python, c++, css, centos 8.4
 - 💞️ I’m looking to collaborate on nodejs-based programs
-- 📫 How to reach me email:2623150077@qq.com
+- 📫 How to reach me email: lqn458@gmail.com
 
 <!---
 LQ458/LQ458 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
