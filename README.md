@@ -17,7 +17,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=white)
 - 📫 How to reach me through email: lqn458@gmail.com
-- 👨 My personal website: www.lq458.com
+- 👨 My personal website: www.leoqin.com
 
 ![LQ458's github stats](https://github-readme-stats.vercel.app/api?username=lq458&count_private=true&show_icons=true&theme=radical)
 ![LQ458's most-used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lq458&show_icons=true&locale=en&layout=compact)
