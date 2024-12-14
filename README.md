@@ -1,21 +1,56 @@
-- 👋 Hi, I’m @LQ458
-- 👀 I’m interested in Calisthenics and Coding
-- 🌱 I’m currently learning
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-262577?style=plastic&logo=centos&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=java)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=flutter)
-- 💞️ I’m looking to collaborate on nodejs-based (including typescript) programs
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-2C3A42?style=plastic&logo=ejs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=white)
+Hi! 👋 I am a high school student at [BASIS International School Park Lane Harbour](https://biph.basischina.com/#/home?lang=en). As a learner filled with curiosity and innovative spirit, I am passionate about challenging myself and continuously exploring new fields of knowledge.
+
+## 📚 Academic Achievements
+
+I have completed the following AP courses with their exam scores:
+
+- 📊 [AP Macroeconomics](https://apcentral.collegeboard.org/courses) - Score: 5 - In-depth understanding of macroeconomic policies and indicators
+- 💹 [AP Microeconomics](https://apcentral.collegeboard.org/courses) - Score: 5 - Mastering market mechanisms and business behavior analysis
+- 🌏 [AP World History](https://apcentral.collegeboard.org/courses) - Exploring global civilization development
+- ⚡ [AP Physics 1](https://apcentral.collegeboard.org/courses) - Score: 5 - Studying fundamental physics concepts and principles
+- 📐 [AP Calculus AB](https://apcentral.collegeboard.org/courses) - Score: 5 - Delving into advanced mathematical thinking
+- 💻 [AP Computer Science A](https://apcentral.collegeboard.org/courses) - Score: 5 - Enhancing programming skills
+- 🏰 [AP European History](https://apcentral.collegeboard.org/courses) - Understanding European civilization evolution
+- 🔬 [AP Physics 2](https://apcentral.collegeboard.org/courses) - Exploring deeper physics principles
+
+Currently, I am deeply engaged in these challenging courses:
+
+- 📊 [AP Calculus BC](https://apcentral.collegeboard.org/courses) - Advanced calculus concepts
+- 📈 [AP Statistics](https://apcentral.collegeboard.org/courses) - Statistical analysis and probability
+- 📝 [AP English Language and Composition](https://apcentral.collegeboard.org/courses) - Rhetoric and effective writing
+- 🧪 [AP Chemistry](https://apcentral.collegeboard.org/courses) - Advanced chemical principles
+- 🗽 [AP US History](https://apcentral.collegeboard.org/courses) - American historical development
+- ⚡ [AP Physics C: Mechanics](https://apcentral.collegeboard.org/courses) - Advanced mechanics with calculus
+- ⚡ [AP Physics C: Electricity and Magnetism](https://apcentral.collegeboard.org/courses) - Advanced electromagnetism with calculus
+
+## 💻 Technical Skills
+
+As a developer passionate about technological innovation, I focus on full-stack web development and have mastered the following tech stack:
+
+### 🎨 Frontend Development
+
+- ⚛️ Frameworks: React, Vue.js, Angular, Vite, Nextjs
+- 🎯 UI/UX: Tailwind CSS, Material UI, Bootstrap
+- 📦 State Management: Redux, Zustand
+
+### ⚙️ Backend Development
+
+- 🟢 Runtime: Node.js
+- 🚀 Frameworks: Express.js, Nest.js
+- 🗄️ Databases: MongoDB, Redis
+
+### 🔧 Programming Languages
+
+I am familiar with multiple programming languages and continue to deepen my knowledge:
+
+| Language | Application Areas |
+| --- | --- |
+| 💙 TypeScript/JavaScript | Web development, Full-stack applications |
+| 🐍 Python | Data analysis, Automation scripts |
+| ☕ Java | Backend development, Android applications |
+| ⚡ C++ | System programming, Algorithm implementation |
+
+I actively contribute to the open-source community, stay updated with cutting-edge technology trends, and continuously explore innovative fields. Currently, I am diving deep into cloud computing architecture (☁️) and artificial intelligence applications (🤖) to expand my technical horizons and enhance practical capabilities.
 - 📫 How to reach me through email: lqn458@gmail.com
 - 👨 My personal website: www.leoqin.com
 
