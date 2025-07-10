@@ -6,22 +6,19 @@ I have completed the following AP courses with their exam scores:
 
 - 📊 [AP Macroeconomics](https://apcentral.collegeboard.org/courses) - Score: 5 - In-depth understanding of macroeconomic policies and indicators
 - 💹 [AP Microeconomics](https://apcentral.collegeboard.org/courses) - Score: 5 - Mastering market mechanisms and business behavior analysis
-- 🌏 [AP World History](https://apcentral.collegeboard.org/courses) - Exploring global civilization development
 - ⚡ [AP Physics 1](https://apcentral.collegeboard.org/courses) - Score: 5 - Studying fundamental physics concepts and principles
 - 📐 [AP Calculus AB](https://apcentral.collegeboard.org/courses) - Score: 5 - Delving into advanced mathematical thinking
 - 💻 [AP Computer Science A](https://apcentral.collegeboard.org/courses) - Score: 5 - Enhancing programming skills
-- 🏰 [AP European History](https://apcentral.collegeboard.org/courses) - Understanding European civilization evolution
-- 🔬 [AP Physics 2](https://apcentral.collegeboard.org/courses) - Exploring deeper physics principles
-
-Currently, I am deeply engaged in these challenging courses:
-
-- 📊 [AP Calculus BC](https://apcentral.collegeboard.org/courses) - Advanced calculus concepts
-- 📈 [AP Statistics](https://apcentral.collegeboard.org/courses) - Statistical analysis and probability
-- 📝 [AP English Language and Composition](https://apcentral.collegeboard.org/courses) - Rhetoric and effective writing
-- 🧪 [AP Chemistry](https://apcentral.collegeboard.org/courses) - Advanced chemical principles
-- 🗽 [AP US History](https://apcentral.collegeboard.org/courses) - American historical development
-- ⚡ [AP Physics C: Mechanics](https://apcentral.collegeboard.org/courses) - Advanced mechanics with calculus
-- ⚡ [AP Physics C: Electricity and Magnetism](https://apcentral.collegeboard.org/courses) - Advanced electromagnetism with calculus
+- 📊 [AP Calculus BC](https://apcentral.collegeboard.org/courses) - Score: 5 - Advanced calculus concepts
+- 📈 [AP Statistics](https://apcentral.collegeboard.org/courses) - Score: 5 - Statistical analysis and probability
+- 🧪 [AP Chemistry](https://apcentral.collegeboard.org/courses) - Score: 5 - Advanced chemical principles
+- 🗽 [AP US History](https://apcentral.collegeboard.org/courses) - Score: 5 - American historical development
+- ⚡ [AP Physics C: Mechanics](https://apcentral.collegeboard.org/courses) - Score: 5 - Advanced mechanics with calculus
+- ⚡ [AP Physics C: Electricity and Magnetism](https://apcentral.collegeboard.org/courses) - Score: 5 - Advanced electromagnetism with calculus
+- 🏰 [AP European History](https://apcentral.collegeboard.org/courses) - Score: 4 - Understanding European civilization evolution
+- 📝 [AP English Language and Composition](https://apcentral.collegeboard.org/courses) - Score: 4 - Rhetoric and effective writing
+- 🌏 [AP World History](https://apcentral.collegeboard.org/courses) - Score: 4 - Exploring global civilization development
+- 🔬 [AP Physics 2](https://apcentral.collegeboard.org/courses) - Score: 4 - Exploring deeper physics principles
 
 ## 💻 Technical Skills
 
