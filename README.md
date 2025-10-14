@@ -51,5 +51,4 @@ I actively contribute to the open-source community, stay updated with cutting-ed
 - 📫 How to reach me through email: lqn458@gmail.com
 - 👨 My personal website: www.leoqin.com
 
-![LQ458's github stats](https://github-readme-stats.vercel.app/api?username=lq458&count_private=true&show_icons=true&theme=radical)
 ![LQ458's most-used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lq458&show_icons=true&locale=en&layout=compact)
