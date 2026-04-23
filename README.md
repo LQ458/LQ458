@@ -1,54 +1,36 @@
-Hi! 👋 I am a high school student at [BASIS International School Park Lane Harbour](https://biph.basischina.com/#/home?lang=en). As a learner filled with curiosity and innovative spirit, I am passionate about challenging myself and continuously exploring new fields of knowledge.
+# Leo Qin
 
-## 📚 Academic Achievements
+Incoming Computer Engineering student at Washington University in St. Louis. I build AI-powered applications with a focus on retrieval-augmented generation (RAG), LLM integration, and full-stack systems.
 
-I have completed the following AP courses with their exam scores:
+## What I'm Working On
 
-- 📊 [AP Macroeconomics](https://apcentral.collegeboard.org/courses) - Score: 5 - In-depth understanding of macroeconomic policies and indicators
-- 💹 [AP Microeconomics](https://apcentral.collegeboard.org/courses) - Score: 5 - Mastering market mechanisms and business behavior analysis
-- ⚡ [AP Physics 1](https://apcentral.collegeboard.org/courses) - Score: 5 - Studying fundamental physics concepts and principles
-- 📐 [AP Calculus AB](https://apcentral.collegeboard.org/courses) - Score: 5 - Delving into advanced mathematical thinking
-- 💻 [AP Computer Science A](https://apcentral.collegeboard.org/courses) - Score: 5 - Enhancing programming skills
-- 📊 [AP Calculus BC](https://apcentral.collegeboard.org/courses) - Score: 5 - Advanced calculus concepts
-- 📈 [AP Statistics](https://apcentral.collegeboard.org/courses) - Score: 5 - Statistical analysis and probability
-- 🧪 [AP Chemistry](https://apcentral.collegeboard.org/courses) - Score: 5 - Advanced chemical principles
-- 🗽 [AP US History](https://apcentral.collegeboard.org/courses) - Score: 5 - American historical development
-- ⚡ [AP Physics C: Mechanics](https://apcentral.collegeboard.org/courses) - Score: 5 - Advanced mechanics with calculus
-- ⚡ [AP Physics C: Electricity and Magnetism](https://apcentral.collegeboard.org/courses) - Score: 5 - Advanced electromagnetism with calculus
-- 🏰 [AP European History](https://apcentral.collegeboard.org/courses) - Score: 4 - Understanding European civilization evolution
-- 📝 [AP English Language and Composition](https://apcentral.collegeboard.org/courses) - Score: 4 - Rhetoric and effective writing
-- 🌏 [AP World History](https://apcentral.collegeboard.org/courses) - Score: 4 - Exploring global civilization development
-- 🔬 [AP Physics 2](https://apcentral.collegeboard.org/courses) - Score: 4 - Exploring deeper physics principles
+**[LawAI](https://github.com/LQ458/LawAI)** — RAG legal Q&A platform. Semantic retrieval over 2,700+ Chinese legal cases using Pinecone + ZhipuAI embeddings, with GLM-4 for multi-turn conversation. Built with Next.js, TypeScript, and MongoDB.
 
-## 💻 Technical Skills
+**[Lesson Plan Generator](https://github.com/LQ458/lesson-plan-generator)** — Adaptive learning system for rural schools in Guizhou. Processes 95K+ curriculum chunks with ChromaDB-powered RAG and Qwen LLM. End-to-end data pipeline with OCR error correction and semantic search.
 
-As a developer passionate about technological innovation, I focus on full-stack web development and have mastered the following tech stack:
+**[StatsifyFinance](https://github.com/LQ458/StatsifyFinance)** — AI financial analysis platform integrating DeepSeek V3 for streaming analysis, LangChain for prompt orchestration, and dual OCR (Tencent + Baidu) for document understanding.
 
-### 🎨 Frontend Development
+**[CourseScheduler](https://github.com/LQ458/CourseScheduler)** — Constraint satisfaction solver for school scheduling. Handles 300+ students across 30+ courses. Deployed and eliminated 53 conflicts, reducing manual scheduling work by 19%.
 
-- ⚛️ Frameworks: React, Vue.js, Angular, Vite, Nextjs
-- 🎯 UI/UX: Tailwind CSS, Material UI, Bootstrap
-- 📦 State Management: Redux, Zustand
+## Tech Stack
 
-### ⚙️ Backend Development
+```
+Languages:    Python, C/C++, TypeScript, JavaScript
+AI/ML:        PyTorch, RAG, Vector Search, LLM APIs, CUDA
+Databases:    MongoDB, Redis, Pinecone, ChromaDB
+Frameworks:   React, Next.js, Node.js, Express
+Tools:        Docker, Linux, Git
+```
 
-- 🟢 Runtime: Node.js
-- 🚀 Frameworks: Express.js, Nest.js
-- 🗄️ Databases: MongoDB, Redis
+## Recent
 
-### 🔧 Programming Languages
+- 2nd place at Moonshot 48 Hackathon — built a smart white cane with YOLOv5 + GPS + AI voice in 48 hours
+- AIME qualifier (2022)
+- 11 AP exams scored 5
 
-I am familiar with multiple programming languages and continue to deepen my knowledge:
+## Contact
 
-| Language | Application Areas |
-| --- | --- |
-| 💙 TypeScript/JavaScript | Web development, Full-stack applications |
-| 🐍 Python | Data analysis, Automation scripts |
-| ☕ Java | Backend development, Android applications |
-| ⚡ C++ | System programming, Algorithm implementation |
-
-I actively contribute to the open-source community, stay updated with cutting-edge technology trends, and continuously explore innovative fields. Currently, I am diving deep into cloud computing architecture (☁️) and artificial intelligence applications (🤖) to expand my technical horizons and enhance practical capabilities.
-- 📫 How to reach me through email: lqn458@gmail.com
+- 📫 How to reach me through email: y.qin@wustl.edu · [lqn458@gmail.com](mailto:lqn458@gmail.com)
 - 👨 My personal website: www.leoqin.com
 
 ![LQ458's most-used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lq458&show_icons=true&locale=en&layout=compact)
