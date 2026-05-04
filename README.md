@@ -33,4 +33,4 @@ Tools:        Docker, Linux, Git
 - 📫 How to reach me through email: y.qin@wustl.edu · [lqn458@gmail.com](mailto:lqn458@gmail.com)
 - 👨 My personal website: www.leoqin.com
 
-![LQ458's most-used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lq458&show_icons=true&locale=en&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lq458)
