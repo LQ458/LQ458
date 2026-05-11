@@ -1,16 +1,16 @@
 # Leo Qin
 
-Incoming Computer Engineering student at Washington University in St. Louis. I build AI-powered applications with a focus on retrieval-augmented generation (RAG), LLM integration, and full-stack systems.
+Incoming Computer Engineering student at Washington University in St. Louis. I build AI infrastructure, RAG pipelines, dataflow executors, agent reliability systems, and study what happens when they go wrong.
 
 ## What I'm Working On
 
-**[LawAI](https://github.com/LQ458/LawAI)** — RAG legal Q&A platform. Semantic retrieval over 2,700+ Chinese legal cases using Pinecone + ZhipuAI embeddings, with GLM-4 for multi-turn conversation. Built with Next.js, TypeScript, and MongoDB.
+[**LawAI**](https://github.com/LQ458/LawAI) — Privacy-aware RAG legal assistant. Enforces document-level access via Auth0 FGA (HR sees salary docs, engineers denied). RAG pipeline with Pinecone + `multilingual-e5-large` embeddings. Includes AI evaluation framework using DeepSeek judge to score responses on safety, specificity, and actionability. Next.js 15 + DeepSeek V4 Pro.
 
-**[Lesson Plan Generator](https://github.com/LQ458/lesson-plan-generator)** — Adaptive learning system for rural schools in Guizhou. Processes 95K+ curriculum chunks with ChromaDB-powered RAG and Qwen LLM. End-to-end data pipeline with OCR error correction and semantic search.
+[**Lesson Plan Generator**](https://github.com/LQ458/lesson-plan-generator) — RAG system for 95K+ curriculum chunks. ChromaDB + Qwen LLM. End-to-end pipeline with OCR error correction and semantic search. Deployed in rural Guizhou schools.
 
-**[StatsifyFinance](https://github.com/LQ458/StatsifyFinance)** — AI financial analysis platform integrating DeepSeek V3 for streaming analysis, LangChain for prompt orchestration, and dual OCR (Tencent + Baidu) for document understanding.
+[**StatsifyFinance**](https://github.com/LQ458/StatsifyFinance) — AI financial analysis. DeepSeek V3 streaming, LangChain orchestration, dual OCR (Tencent + Baidu) for document understanding.
 
-**[CourseScheduler](https://github.com/LQ458/CourseScheduler)** — Constraint satisfaction solver for school scheduling. Handles 300+ students across 30+ courses. Deployed and eliminated 53 conflicts, reducing manual scheduling work by 19%.
+[**BiphFlora**](https://github.com/LQ458/BiphFlora) — Plant encyclopedia with image recognition. Built a searchable database of plant species with identification features.
 
 ## Tech Stack
 
@@ -24,9 +24,10 @@ Tools:        Docker, Linux, Git
 
 ## Recent
 
-- 2nd place at Moonshot 48 Hackathon — built a smart white cane with YOLOv5 + GPS + AI voice in 48 hours
-- AIME qualifier (2022)
-- 11 AP exams scored 5
+- MLH GenAI Auth0 Privacy-Aware RAG Bot challenge completed
+- BlueDot Impact AI Safety Fundamentals international cohort
+- 2nd place at Moonshot 48 Hackathon (built a smart white cane with YOLOv5 + GPS + AI voice in 48 hours)
+- AIME qualifier (2022) · 11 AP 5s
 
 ## Contact
 
