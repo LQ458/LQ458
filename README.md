@@ -2,16 +2,6 @@
 
 Incoming Computer Engineering student at Washington University in St. Louis. I build AI systems, agent safety evals, RAG pipelines, and reliability infrastructure for tool-using AI.
 
-## What I'm Working On
-
-[**Model Eval System**](https://github.com/LQ458/model-eval-system) — A local-first research scaffold for evaluating models, agent harnesses, and complete agent products on realistic, stateful tasks.
-
-[**LawAI**](https://github.com/LQ458/LawAI) — Privacy-aware RAG legal assistant. Enforces document-level access via Auth0 FGA. RAG pipeline with Pinecone + `multilingual-e5-large` embeddings. Includes AI evaluation framework using DeepSeek judge to score responses on safety, specificity, and actionability.
-
-[**StatsifyFinance**](https://github.com/LQ458/StatsifyFinance) — AI financial analysis. DeepSeek V3 streaming, LangChain orchestration, dual OCR (Tencent + Baidu) for document understanding.
-
-[**BiphFlora**](https://github.com/LQ458/BiphFlora) — Plant encyclopedia with image recognition. Includes a searchable database of plant species with identification features.
-
 ## Tech Stack
 
 ```
