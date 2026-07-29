@@ -1,6 +1,6 @@
 # Leo Qin
 
-Incoming Computer Engineering student at Washington University in St. Louis. I build AI systems, agent safety evals, and reliable infrastructure for tool-using AI.
+Incoming CS+Math student at Washington University in St. Louis. I build AI systems, agent safety evals, and reliable infrastructure for tool-using AI.
 
 ## Tech Stack
 
