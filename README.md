@@ -5,12 +5,10 @@ Incoming Computer Engineering student at Washington University in St. Louis. I b
 ## Tech Stack
 
 ```
-Languages:    Python, C/C++, TypeScript, JavaScript
-AI Safety:    Agent Evals, Prompt Injection Testing, AI Control, Tool-Use Safety
-AI/ML:        PyTorch, RAG, Vector Search, CUDA
-Databases:    MongoDB, Redis, Pinecone, ChromaDB
-Frameworks:   React, Next.js, Node.js, Express
-Tools:        Docker, Linux, Git
+Languages:      Python, C/C++, Java, TypeScript/JavaScript, SQL
+Web & Backend:  React, Next.js, Node.js, Express, REST APIs
+AI & Data:      NumPy, Pandas, scikit-learn, RAG, vector search, LLM evaluation, MongoDB, Redis, ChromaDB
+Infra:          Linux, Docker, Git, Nginx
 ```
 
 ## Recent
