@@ -16,6 +16,7 @@ Infra:          Linux, Docker, Git, Nginx
 - BlueDot Impact AI Safety Fundamentals international cohort
 - 2nd place at Moonshot 48 Hackathon (built a smart white cane with YOLOv5 + GPS + AI voice in 48 hours)
 - AIME qualifier (2022) · 11 AP 5s
+- Apart Research Secret Loyalties Hackathon Top 10% of 179 Submissions
 
 ## Contact
 
