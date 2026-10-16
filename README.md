@@ -1,22 +1,23 @@
 # Leo Qin
 
-Incoming CS+Math student at Washington University in St. Louis. I build AI systems, agent safety evals, and reliable infrastructure for tool-using AI.
+CS+Math and EE student at Washington University in St. Louis. I build AI systems, agent safety evals, and reliable infrastructure for tool-using AI.
 
 ## Tech Stack
 
 ```
-Languages:      Python, C/C++, Java, TypeScript/JavaScript, SQL
+AI & ML:        PyTorch, RAG, LLM evaluation, vector search, scikit-learn, NumPy, Pandas, ChromaDB
+Programming:    Python, C/C++, Java, TypeScript/JavaScript, SQL
 Web & Backend:  React, Next.js, Node.js, Express, REST APIs
-AI & Data:      NumPy, Pandas, scikit-learn, RAG, vector search, LLM evaluation, MongoDB, Redis, ChromaDB
-Infra:          Linux, Docker, Git, Nginx
+Infra & Data:   Linux, Docker, Git, Nginx, MongoDB, Redis
+Languages:      Chinese (native), English (TOEFL 114)
 ```
 
 ## Recent
 
 - BlueDot Impact AI Safety Fundamentals international cohort
 - 2nd place at Moonshot 48 Hackathon (built a smart white cane with YOLOv5 + GPS + AI voice in 48 hours)
-- AIME qualifier (2022) · 11 AP 5s
 - Apart Research Secret Loyalties Hackathon Top 10% of 179 Submissions
+- AIME qualifier (2022) · 11 AP 5s
 
 ## Contact
 
