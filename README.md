@@ -1,6 +1,17 @@
 # Leo Qin
 
-CS+Math and EE student at Washington University in St. Louis. I build AI systems, agent safety evals, and reliable infrastructure for tool-using AI.
+I build AI-safety evals and web products, then test them against reality. CS + Math and EE at Washington University in St. Louis.
+
+**Site and write-ups:** [leoqin.com](https://www.leoqin.com) · **Email:** y.qin@wustl.edu
+
+## Selected work
+
+- [Model-Loyalties-Investigation](https://github.com/LQ458/Model-Loyalties-Investigation): installing, auditing and containing a hidden loyalty in a system prompt (Apart Research hackathon, Team Elpis). Preliminary results.
+- [lesson-plan-generator](https://github.com/LQ458/lesson-plan-generator): Personalized AI Teaching Copilot for teachers and students in Bijie, Guizhou.
+- [biphflora](https://github.com/LQ458/biphflora): a bilingual campus plant catalogue.
+- [StatsifyFinance](https://github.com/LQ458/StatsifyFinance): a bilingual finance learning platform.
+
+Loyalty Titration (with Barry Shen, accepted to the WashU Undergraduate Journal of Research) and my Violoop work have no public code; see the write-ups on the site.
 
 ## Tech Stack
 
@@ -14,12 +25,12 @@ Languages:      Chinese (native), English (TOEFL 114)
 
 ## Recent
 
-- BlueDot Impact AI Safety Fundamentals international cohort
+- BlueDot Impact Technical AI Safety course (2026)
 - 2nd place at Moonshot 48 Hackathon (built a smart white cane with YOLOv5 + GPS + AI voice in 48 hours)
 - Apart Research Secret Loyalties Hackathon Top 10% of 179 Submissions
 - AIME qualifier (2022) · 11 AP 5s
 
 ## Contact
 
-- How to reach me through email: y.qin@wustl.edu · [lqn458@gmail.com](mailto:lqn458@gmail.com)
-- My personal website: www.leoqin.com
+- Email: y.qin@wustl.edu
+- Website: www.leoqin.com
