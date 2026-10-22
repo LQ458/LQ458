@@ -6,7 +6,6 @@ I build AI-safety evals and web products, then test them against reality. CS + M
 
 ## Selected work
 
-- [Model-Loyalties-Investigation](https://github.com/LQ458/Model-Loyalties-Investigation): installing, auditing and containing a hidden loyalty in a system prompt (Apart Research hackathon, Team Elpis). Preliminary results.
 - [lesson-plan-generator](https://github.com/LQ458/lesson-plan-generator): Personalized AI Teaching Copilot for teachers and students in Bijie, Guizhou.
 - [biphflora](https://github.com/LQ458/biphflora): a bilingual campus plant catalogue.
 - [StatsifyFinance](https://github.com/LQ458/StatsifyFinance): a bilingual finance learning platform.
