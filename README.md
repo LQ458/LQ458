@@ -9,8 +9,9 @@ I build AI-safety evals and web products, then test them against reality. CS + M
 - [lesson-plan-generator](https://github.com/LQ458/lesson-plan-generator): Personalized AI Teaching Copilot for teachers and students in Bijie, Guizhou.
 - [biphflora](https://github.com/LQ458/biphflora): a bilingual campus plant catalogue.
 - [StatsifyFinance](https://github.com/LQ458/StatsifyFinance): a bilingual finance learning platform.
+- [Model-Loyalties-Investigation](https://github.com/LQ458/Model-Loyalties-Investigation): installing, auditing and containing a hidden loyalty in a system prompt (Apart Research hackathon). Preliminary results.
 
-Loyalty Titration (with Barry Shen, accepted to the WashU Undergraduate Journal of Research) and my Violoop work have no public code; see the write-ups on the site.
+For my Loyalty Titration Research (with Barry Shen, accepted to the WashU Undergraduate Journal of Research) and my experience at Violoop, see the write-ups on my [site](https://www.leoqin.com).
 
 ## Tech Stack
 
